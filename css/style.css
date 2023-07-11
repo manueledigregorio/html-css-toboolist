@@ -26,3 +26,31 @@ body{
     vertical-align:40%;
     margin-left: 5px;
 }
+
+.container{
+    margin: 50px auto;
+    height: 400px;
+    width: 1400px;
+    max-width: 1200px;
+    background-color:white;
+    border-radius: 10px;
+
+}
+
+.button-blue {
+     margin-top: 20px;
+     margin-left: 50px;
+     padding: 10px 15px;
+     color: white;
+     background-color: #46ADF1;
+     border-radius: 5px;
+     border: none;
+}
+.button{
+    margin-top: 20px;
+    padding: 10px 15px;
+    color: grey;
+    border-radius: 5px;
+    border: 2px solid gray;
+    background-color: white;
+}
